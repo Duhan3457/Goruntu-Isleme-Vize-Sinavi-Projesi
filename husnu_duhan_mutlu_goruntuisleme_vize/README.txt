@@ -28,7 +28,7 @@ Proje : Parmak Hareketleri İle Ekran Parmaklığı Kontrolü
   
 1. Mediapipe : https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python?hl=tr
 
-2. https://pypi.org/project/screen-brightness-control/
+2. screen-brightness-control : https://pypi.org/project/screen-brightness-control/
 
 
 
